@@ -1,94 +1,75 @@
-# 👋 Hi, I'm Kishan Kumar
+# Kishan Kumar
+
+**Full Stack Developer · India**
+
+I build web applications, APIs, and products that solve real problems. My work spans frontend engineering, backend development, database design, and deployment.
+
+[GitHub](https://github.com/kishansky) · React · Next.js · Laravel · Node.js
+
+---
+
+### About
+
+- Developing full-stack applications with React, Next.js, and Tailwind CSS.
+- Building REST APIs and backend services with Node.js and Laravel.
+- Working with relational databases, including MySQL and PostgreSQL.
+- Building education platforms, SaaS applications, and e-commerce systems.
+- Exploring Docker, CI/CD, and reliable deployment workflows.
+
+### Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS and Vite" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,postgres" alt="Node.js, Express, PHP, Laravel, MySQL and PostgreSQL" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Git, GitHub, Docker, Linux and VS Code" />
+</p>
+
+### Selected work
+
+**College Connect**  
+Education technology · Web application
+
+Working on an education portal with course data management, database-backed features, and modern web technologies.
+
+**School Management SaaS**  
+SaaS · Role-based access control
+
+Developing school administration features, user management, permissions, and structured workflows.
+
+**Flawsome Beauty**  
+E-commerce · Product management
+
+Building an online shopping experience with product listings, cart, wishlist, checkout, and administration.
+
+---
+
+### GitHub
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React.js+%7C+Next.js+Developer;Laravel+%7C+Node.js+Developer;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kishansky&show_icons=true&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9&icon_color=79c0ff&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishansky&layout=compact&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/kishansky">
-    <img src="https://komarev.com/ghpvc/?username=kishansky&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/kishansky?tab=followers">
-    <img src="https://img.shields.io/github/followers/kishansky?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=kishansky&hide_border=true&background=0d1117&ring=79c0ff&fire=79c0ff&currStreakLabel=79c0ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub contribution streak" />
+</p>
+
+### Contribution activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kishansky/kishansky/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution activity animation" />
 </p>
 
 ---
 
-## 🚀 About Me
+### Find me online
 
-I'm a passionate **Full Stack Web Developer** who enjoys building modern, responsive, and scalable web applications.
+[GitHub ↗](https://github.com/kishansky)
 
-- 💻 Building web applications with **React.js, Next.js, and Tailwind CSS**.
-- ⚙️ Developing backend APIs using **Node.js, Express.js, and Laravel**.
-- 🗄️ Working with **MySQL and PostgreSQL** databases.
-- 🎓 Developing education technology and SaaS applications.
-- 🐳 Exploring Docker, CI/CD, and automated deployments.
-- 🌱 Always learning new technologies and improving my coding skills.
-
-## 💻 Tech Stack
-
-### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" alt="Frontend Skills" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" alt="Backend Skills" />
-</p>
-
-### 🗄️ Database & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,linux,vscode" alt="Tools and Databases" />
-</p>
-
-## 🌟 Featured Projects
-
-### 🎓 College Connect
-Education portal development with modern web technologies, course management, and database-driven features.
-
-### 🏫 School Management SaaS
-A school management platform featuring role-based access control, user management, and administrative workflows.
-
-### 🛍️ Flawsome Beauty
-An e-commerce project with product management, shopping cart, wishlist, checkout, and admin functionality.
-
-> Project descriptions are summaries of development work. Add links to the actual repositories below when they are public.
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kishansky&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Kishan's GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishansky&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</p>
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kishansky&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kishansky/kishansky/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-</p>
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/kishansky">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Turning ideas into functional, scalable, and user-friendly applications."</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile. Feel free to explore my repositories!
+  <sub>Building, learning, and shipping — one project at a time.</sub>
 </p>
